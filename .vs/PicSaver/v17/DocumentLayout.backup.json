@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Programing\\workouts\\job done\\C#\\PicSaver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB58C8F-97C2-45F4-BF5B-23EADB9AF89D}|PicSaver\\PicSaver.csproj|e:\\my programing\\workouts\\job done\\c#\\picsaver\\picsaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB58C8F-97C2-45F4-BF5B-23EADB9AF89D}|PicSaver\\PicSaver.csproj|solutionrelative:picsaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Programing\\workouts\\job done\\C#\\PicSaver\\PicSaver\\Program.cs",
+              "RelativeDocumentMoniker": "PicSaver\\Program.cs",
+              "ToolTip": "E:\\My Programing\\workouts\\job done\\C#\\PicSaver\\PicSaver\\Program.cs",
+              "RelativeToolTip": "PicSaver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:02:59.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
